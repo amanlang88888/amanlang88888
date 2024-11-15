@@ -3,7 +3,7 @@
 
 <h2>Please feel free to email me: andrewlang.88888@gmail.com</h2>
 
-<h2>Software Development Projects:</h2>
+<h2>My Projects:</h2>
 <br>
 - <b>Exploratory and Descriptive Statistics in Python</b></br>
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/NHS%20Appointments.ipynb">[NHS Appointments]</a></br>

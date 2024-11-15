@@ -9,6 +9,7 @@
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/NHS%20Appointments%20Discussion%20and%20Methodology.pdf">[NHS Appointments - Discussion and Methodology]</a></br>
 - <b>Tableau Dashboard</b></br>
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/Marketing%20Data%20Dashboard.twbx">[Marketing Dashboard]</a></br>
+  - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/Marketing%20Data%20-%20Technical%20Report.pdf">[Marketing Data - Technical Report]</a>a></br>
   - <b>Space Text Adventure Game</b></br>
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/tree/main/space">[Space Game]</a></br>
   - <i>Please open 'space_game.py' in either command terminal or powershell to play.</i>

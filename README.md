@@ -17,5 +17,5 @@
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/tree/main/space">[Space Game]</a></br>
   - <i>Please open 'space_game.py' in either command terminal or powershell to play.</i></br>
   <br>
-  - <b>Clinical Data Analysis</b>
+  - <b>Clinical Data Analysis</b></br>
    - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/SHARP%20Abstract.pdf">[SHARP Abstract]</a>

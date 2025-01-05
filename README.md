@@ -15,6 +15,11 @@
   <br>
   - <b>Clinical Data Analysis</b></br>
    - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/SHARP%20Abstract.pdf">[SHARP Abstract]</a></br>
+   <br>
+   - <b> Predictive Modelling</b></br>
+   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/blob/main/Predictive%20Modelling%20Report.pdf">[Predictive Modelling - Technical Report]</a></br>
+   - <a href"https://github.com/amanlang88888/amanlangprojectarchive/blob/main/LANG_ANDREW_DA301_Assignment_Notebook.ipynb">[Predictive Modelling - Python]</a></br>
+   - <a href"https://github.com/amanlang88888/amanlangprojectarchive/blob/main/LANG_ANDREW_DA301_Assignment_Notebook.R">[Predictive Modelling - R]</a></br>
   <br>
   - <b>Space Text Adventure Game (Still in Development)</b></br>
   - <a href="https://github.com/amanlang88888/amanlangprojectarchive/tree/main/space">[Space Game]</a></br>

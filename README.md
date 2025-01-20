@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/amanlang88888">Aspiring legal technologist, and passionate about tech</a>
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/amanlang88888">Aspiring analyst, and passionate about tech</a>
 </h1>
 
 <h2>Please feel free to email me: andrewlang.88888@gmail.com</h2>
